@@ -1,0 +1,30 @@
+Pytanie z poprawna odpowiedzia a:
+odp. a
+odp. b
+odp. c
+odp. d
+a
+Pytanie z poprawna odpowiedzia b:
+odp. a
+odp. b
+odp. c
+odp. d
+b
+Pytanie z poprawna odpowiedzia c:
+odp. a
+odp. b
+odp. c
+odp. d
+c
+Pytanie z poprawna odpowiedzia d:
+odp. a
+odp. b
+odp. c
+odp. d
+d
+Pytanie z poprawna odpowiedzia a:
+odp. a
+odp. b
+odp. c
+odp. d
+a
